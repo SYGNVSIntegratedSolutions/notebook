@@ -6,6 +6,8 @@ The major vulnerability in question was located within the Automated Consumer In
 
 Thankfully for those interested in uncovering the root causes of this monumental infosec failure, cybersecurity institutions, legislative assemblies and committees, cybersecurity publications, news outlets, and even university programs have published independent studies on this breach. For the purposes of this study, we will keep our list of honorable mentions relatively short: this study will incorporate information from the U.S. House of Representatives Committee on Oversight and Government Reform, the U.S. Government Accountability Office’s Report to Congressional Requesters, the Bloomberg Businessweek piece contributed to by Michael Riley, Jordan Robertson, and Anita Sharpe weeks after the events of the breach were made public, and Josh Fruhlinger’s article for the Foundry subsidiary, CSO, in order to provide a concise, definitive summary of the event as well as a series of security recommendations sourced from the absolute most trusted voices in this field.
 
+![[Gemini_Generated_Image_43k2tw43k2tw43k2.png]]
+
 ## **Why Equifax?**
 
   
@@ -19,6 +21,7 @@ What the exact motivations may have been for the now-infamous 2017 data breach r
 
 The true irony is that the very people who publicized the vulnerability that would lead to the greatest cybertheft in history was the security firm whose software was protecting some of the most sensitive and valuable information in the world - Apache Struts. Once the vulnerability had been discovered by Apache personnel, patch notes were released in short order along with a list of security recommendations. However, Equifax’s lax security procedure combined with the company’s general lack of cohesive relationships between management and personnel allocated a large window of time for the vulnerability to be exploited (House of Representatives).  
 
+![[Gemini_Generated_Image_q3b56oq3b56oq3b5.png]]
 
 ## **How the Breach was Carried Out**
 
@@ -35,6 +38,7 @@ Attackers were able to deploy what is colloquially referred to as “web shells,
 
 In the wake of the attack, Equifax waited months before disclosing the breach to the American public - upon finally renewing their expired security certificates, Equifax noticed the suspicious traffic in July of 2017, taking the ACIS application offline that same month. The following month, top officials at the company held a confidential meeting to discuss findings from Mandiant concerning how severe the breach was; later, in August, Mandiant was able to confirm the severity of the attack and identify the rough number of affected consumers. It was during this time that members of the executive board of the company began selling off their shares of the company, which opens all sorts of questions related to the ethical concerns of these individuals selling their stakes prior to the disclosure of the breach to the public. Once the breach was disclosed in earnest, multiple agencies of the Federal Government launched investigations into the breach - this included the House Committee on Oversight and Government Reform; the House Committee on Science, Space, and Technology; the Federal Bureau of Investigation; and the United States Government Accountability office. The glaring recommendation across virtually every study of this event is that Equifax absolutely should have renewed their expired certificates (especially those which governed their detection tools), properly segmented their networks to prevent unrelated systems from being able to interact with eachother, and the proposal of more strict regulation of credit reporting agencies as well as businesses in adjacent fields to more sternly enforce compliance with best-in-class cybersecurity practices. 
 
+![[Gemini_Generated_Image_x08jyx08jyx08jyx.png]]
 
 ## **Aftermath and Takeaways**
   
@@ -49,6 +53,7 @@ There is absolutely no viable excuse for Equifax’s ignorance to the potential 
 
 It is unacceptable, therefore, that financial index provider MSCI rated Equifax’s security efforts with a 0/10 for two years straight; MSCI’s two reports both concluded: “Equifax’s data security and privacy measures have proved insufficient in mitigating data breach events. The company’s credit reporting business faces a high risk of data theft and associated reputational consequences…(House Committee on Oversight and Government Reform).”
   
+![[Gemini_Generated_Image_qlegssqlegssqleg.png]]
 
 ## **Reflection**
 
