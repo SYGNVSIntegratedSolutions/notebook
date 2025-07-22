@@ -13,33 +13,37 @@ Not finding a guide for what you need? Email paul@sygnvs.com and he will happily
 
 ## 📍 *Articles and Other Comfy Reading:*
 
-[[Misinformation, Disinformation, and Propaganda]]
-	[[The Perfect Storm]]
-	[[The Solutions]]
+- [[The Looming Threat of Scattered Spider]]
 
-[[The Equifax Data Breach]]
+- [[The Equifax Data Breach]]
 
+- [[OWASP and Its Contributions to the Security Field]]
 ## *Quick-Start Guides:*
-[[Windows Desktop Hardening]]
-[[Securing Your Web Browser 🕵️‍♀️]]
-[[Business Continuity During Natural Disasters 🌿]]
-[[Simple Incident Response Checklist]]
-[[Email Account Security 📨]]
-[[Server Protection]]
-[[Acceptable Use Recommendations]]
-[[Multifactor Authentication (365)]] 
-[[iPhone Security Recommendations]]
-[[Android Security Recommendations]]
-[[COPE Framework Mobile Security]]
-[[COPE Framework Laptop Security]]
 
-## *Articles:*
+- [[Windows Desktop Hardening]]
 
-[[Misinformation, Disinformation, and Propaganda]]
-	[[The Perfect Storm]]
-	[[The Solutions]]
+- [[Securing Your Web Browser 🕵️‍♀️]]
 
-[[The Equifax Data Breach]]
+- [[Business Continuity During Natural Disasters 🌿]]
+
+- [[Simple Incident Response Checklist]]
+
+- [[Email Account Security 📨]]
+
+- [[Server Protection]]
+
+- [[Acceptable Use Recommendations]]
+
+- [[Multifactor Authentication (365)]] 
+
+- [[iPhone Security Recommendations]]
+
+- [[Android Security Recommendations]]
+
+- [[COPE Framework Mobile Security]]
+
+- [[COPE Framework Laptop Security]]
+
 
 
 
