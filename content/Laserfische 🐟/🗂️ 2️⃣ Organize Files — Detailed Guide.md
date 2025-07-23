@@ -6,12 +6,12 @@ Keeping your files neat makes them easy to find 🔍 and ensures everyone can wo
 
 ### 📁 **A) Create Folders**
 
-1️⃣ **Go to the Main Repository:**
+1 **Go to the Main Repository:**
 
 - In Laserfiche, the left panel shows the folder structure like Windows Explorer.
     
 
-2️⃣ **Add a New Folder:**
+2 **Add a New Folder:**
 
 - Right-click the parent folder where you want the new folder.
     
@@ -20,7 +20,7 @@ Keeping your files neat makes them easy to find 🔍 and ensures everyone can wo
 - 📝 Give it a clear name — e.g., `Invoices 2025`, `HR Records`.
     
 
-3️⃣ **Keep It Simple:**
+3 **Keep It Simple:**
 
 - Use clear, consistent names so everyone knows what goes where.
     
@@ -29,10 +29,10 @@ Keeping your files neat makes them easy to find 🔍 and ensures everyone can wo
 
 ### ✏️ **B) Rename Files**
 
-1️⃣ Find the file or folder you want to rename.  
-2️⃣ Right-click it → Click **Rename**.  
-3️⃣ 🖊️ Type the new name. Example: `Invoice_1234_July2025`.  
-4️⃣ Press **Enter** to save the name.
+1 Find the file or folder you want to rename.  
+2 Right-click it → Click **Rename**.  
+3 🖊️ Type the new name. Example: `Invoice_1234_July2025`.  
+4 Press **Enter** to save the name.
 
 ---
 
@@ -40,9 +40,9 @@ Keeping your files neat makes them easy to find 🔍 and ensures everyone can wo
 
 Tags make files easy to find later 🔍.
 
-1️⃣ Right-click a file → Click **Tags**.  
-2️⃣ Click **Add** and type your tag (e.g., `Urgent`, `Approved`).  
-3️⃣ Click **OK** — the tag is attached.
+1 Right-click a file → Click **Tags**.  
+2 Click **Add** and type your tag (e.g., `Urgent`, `Approved`).  
+3 Click **OK** — the tag is attached.
 
 ---
 
@@ -50,11 +50,11 @@ Tags make files easy to find later 🔍.
 
 Templates add extra info (metadata) so you can search smarter 🗝️.
 
-1️⃣ Right-click the file → Click **Properties**.  
-2️⃣ Go to the **Template** tab.  
-3️⃣ Select the right template from the list (e.g., Invoice, Contract).  
-4️⃣ Fill in fields like date, vendor, project, etc.  
-5️⃣ Click **OK**.
+1 Right-click the file → Click **Properties**.  
+2 Go to the **Template** tab.  
+3 Select the right template from the list (e.g., Invoice, Contract).  
+4 Fill in fields like date, vendor, project, etc.  
+5 Click **OK**.
 
 ---
 
@@ -62,17 +62,17 @@ Templates add extra info (metadata) so you can search smarter 🗝️.
 
 Keep files secure — only the right people should see them 🔒.
 
-1️⃣ Right-click the folder or file.  
-2️⃣ Click **Access Rights**.  
-3️⃣ Add a user or group 👥.  
-4️⃣ ✅ Choose permissions:
+1 Right-click the folder or file.  
+2 Click **Access Rights**.  
+3 Add a user or group 👥.  
+4 ✅ Choose permissions:
 
 - **Read** (view)
     
 - **Write** (edit)
     
 - **Delete** (remove)  
-    5️⃣ Click **OK**.
+    5 Click **OK**.
     
 
 ---

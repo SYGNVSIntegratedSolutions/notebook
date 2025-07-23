@@ -14,9 +14,9 @@ Adding **Customers** (who pay you) and **Vendors/Suppliers** (you pay them) help
 
 ### 🏷️ **A) Find the Contacts Section**
 
-1️⃣ Log in to **Sage Accounting**.  
-2️⃣ Look at the top or side menu → Click **Contacts**.  
-3️⃣ Choose:
+1 Log in to **Sage Accounting**.  
+2 Look at the top or side menu → Click **Contacts**.  
+3 Choose:
 
 - 👥 **Customers** (people/businesses you sell to)
     
@@ -27,8 +27,8 @@ Adding **Customers** (who pay you) and **Vendors/Suppliers** (you pay them) help
 
 ### ➕ **B) Add a New Customer**
 
-1️⃣ Click **Add New Customer** (sometimes called **New Contact**).  
-2️⃣ Fill in:
+1 Click **Add New Customer** (sometimes called **New Contact**).  
+2 Fill in:
 
 - 📛 **Name** — business or person
     
@@ -45,9 +45,9 @@ Adding **Customers** (who pay you) and **Vendors/Suppliers** (you pay them) help
 
 ### 🏷️ **C) Add a New Vendor/Supplier**
 
-1️⃣ Click **Suppliers** (or Vendors).  
-2️⃣ Click **Add New Supplier**.  
-3️⃣ Fill in:
+1 Click **Suppliers** (or Vendors).  
+2 Click **Add New Supplier**.  
+3 Fill in:
 
 - 📛 Name (business/person)
     
@@ -75,17 +75,17 @@ Adding **Customers** (who pay you) and **Vendors/Suppliers** (you pay them) help
 
 ### 💾 **E) Save & Done!**
 
-1️⃣ Double-check the info.  
-2️⃣ Click **Save** (or **Save & Close**).  
-3️⃣ ✅ Your contact is now ready — you can invoice them or record bills anytime.
+1 Double-check the info.  
+2 Click **Save** (or **Save & Close**).  
+3 ✅ Your contact is now ready — you can invoice them or record bills anytime.
 
 ---
 
 ### 🔍 **F) Edit or Find Later**
 
-1️⃣ Go back to **Contacts**.  
-2️⃣ Use the search bar to find a name fast.  
-3️⃣ Click a contact to **Edit**, **Archive**, or **View Transaction History**.
+1 Go back to **Contacts**.  
+2 Use the search bar to find a name fast.  
+3 Click a contact to **Edit**, **Archive**, or **View Transaction History**.
 
 ---
 

@@ -6,17 +6,17 @@ Laserfiche can store thousands (or millions!) of documents — searching helps y
 
 ### 🗝️ **A) Quick Search (Simple Keyword Search)**
 
-1️⃣ Open Laserfiche Client or Web Access.  
-2️⃣ Look for the **Search** bar at the top.  
-3️⃣ Type a word or phrase that might be in:
+1 Open Laserfiche Client or Web Access.  
+2 Look for the **Search** bar at the top.  
+3 Type a word or phrase that might be in:
 
 - the file name
     
 - the text inside the document (if it’s searchable)
     
 - metadata fields  
-    4️⃣ Click **Search** or press **Enter**.  
-    5️⃣ 📜 Results appear below — double-click to open the file.
+    4 Click **Search** or press **Enter**.  
+    5 📜 Results appear below — double-click to open the file.
     
 
 💡 **Tip:** Use clear, unique keywords — like `Invoice 1234` instead of just `Invoice`.
@@ -25,28 +25,28 @@ Laserfiche can store thousands (or millions!) of documents — searching helps y
 
 ### 📑 **B) Field Search (Search by Metadata)**
 
-1️⃣ Open the **Search Pane** (or click **Search Options**).  
-2️⃣ Select **Field Search**.  
-3️⃣ Choose a **Template** (like `Invoice` or `Contract`).  
-4️⃣ Enter info in fields you know — e.g.,
+1 Open the **Search Pane** (or click **Search Options**).  
+2 Select **Field Search**.  
+3 Choose a **Template** (like `Invoice` or `Contract`).  
+4 Enter info in fields you know — e.g.,
 
 - Invoice Number
     
 - Date Range
     
 - Vendor Name  
-    5️⃣ Click **Search** — Laserfiche finds all documents that match your fields.
+    5 Click **Search** — Laserfiche finds all documents that match your fields.
     
 
 ---
 
 ### 🗂️ **C) Folder Search (Limit Where You Look)**
 
-1️⃣ In the Search Pane, click **Search Location**.  
-2️⃣ 📂 Select the folder(s) you want to search in.
+1 In the Search Pane, click **Search Location**.  
+2 📂 Select the folder(s) you want to search in.
 
 - Example: Only search `Finance 2025` instead of the whole repository.  
-    3️⃣ Combine this with **Keyword** or **Field Search** for super accurate results.
+    3 Combine this with **Keyword** or **Field Search** for super accurate results.
     
 
 ---
@@ -69,9 +69,9 @@ Laserfiche can store thousands (or millions!) of documents — searching helps y
 
 ### ⭐ **E) Save Searches (Optional)**
 
-1️⃣ Do a search you use often.  
-2️⃣ Click **Save Search** or **Save As Favorite** (name it clearly).  
-3️⃣ Next time, just click your saved search — no need to re-type!
+1 Do a search you use often.  
+2 Click **Save Search** or **Save As Favorite** (name it clearly).  
+3 Next time, just click your saved search — no need to re-type!
 
 ---
 

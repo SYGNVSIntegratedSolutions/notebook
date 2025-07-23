@@ -1,0 +1,139 @@
+
+![[Sage_2015_logo.webp]]
+
+### ➡️ **What is Sage?**
+
+**Sage** is accounting software that helps you manage:
+
+- 💰 **Money In** (sales & invoices)
+    
+- 💸 **Money Out** (bills & payments)
+    
+- 🧾 **Taxes** (VAT/GST returns)
+    
+- 📊 **Reports** (profit & loss, balance sheet)
+    
+- 👥 **Customers & Vendors**
+    
+- 🏦 **Bank Reconciliation**
+    
+
+Perfect for small to medium businesses that need organized, compliant books!
+
+---
+
+### 📝 **1 Add Customers & Vendors**
+
+1 Go to **Contacts** → choose **Customers** or **Suppliers**.  
+2 Click **Add New**.  
+3 Fill in: name, address, email, payment terms, etc.  
+4 💾 Click **Save** — now you can bill or pay them easily.
+
+---
+
+### 💼 **2 Create & Send Invoices**
+
+1 Go to **Sales** → **Invoices** → **Create Invoice**.  
+2 Pick a customer.  
+3 Add:
+
+- 📦 Products/services
+    
+- 🔢 Quantities & prices
+    
+- 📅 Due date  
+    4 Click **Save & Send** — email it straight to your customer!
+    
+
+---
+
+### 💸 **3 Record Bills & Expenses**
+
+1 Go to **Purchases** → **Bills** → **New Bill**.  
+2 Pick a supplier.  
+3 Add:
+
+- 🧾 Items or services purchased
+    
+- 💰 Amounts
+    
+- 📅 Due date  
+    4 Click **Save** — Sage tracks what you owe.
+    
+
+---
+
+### 🏦 **4 Connect & Reconcile Your Bank**
+
+1 Go to **Banking** → **Connect Bank Account**.  
+2 Pick your bank & sign in securely.  
+3 Sage imports transactions daily.  
+4 🔍 Go to **Reconcile**, match transactions to invoices/bills.  
+5 ✅ Confirm matches — your books stay accurate!
+
+---
+
+### 📊 **5 Run Financial Reports**
+
+1 Go to **Reports**.  
+2 Common reports:
+
+- 📈 Profit & Loss (income & expenses)
+    
+- 📉 Balance Sheet (assets & liabilities)
+    
+- 📑 Aged Receivables/Payables  
+    3 Choose dates → click **Run Report** → export as PDF/Excel.
+    
+
+---
+
+### 🧾 **6 Handle Tax Returns**
+
+1 Go to **Taxes/VAT** → check your sales & purchase tax.  
+2 Sage calculates how much to pay or reclaim.  
+3 📤 Submit directly to your tax authority (if integrated).  
+4 📁 Save returns for your records.
+
+---
+
+### 🔑 **7 Manage Users & Permissions**
+
+1 Go to **Settings** → **User Management**.  
+2 Add users → choose roles:
+
+- Admin: full access
+    
+- Accountant: mostly financial tasks
+    
+- Sales: invoices only  
+    3 ✅ Save — everyone gets the right level of access!
+    
+
+---
+
+### 💡 **Pro Tips for Sage**
+
+✅ Keep data tidy — reconcile banks weekly.  
+🧾 Attach receipts to expenses for easy audits.  
+📨 Send invoices fast — get paid faster!  
+🔒 Back up regularly (if using desktop versions).
+
+Looking for something more in-depth? Check out the index below to get a guide for whichever topic you'd like clarification for!
+
+## *Sage Index:*
+
+- [[📇 1 Add Customers & Vendors — Detailed Guide]]
+
+- [[🧾 2 Create & Send Invoices — Detailed Guide]]
+
+- [[💸 3 Record Bills & Expenses — Detailed Guide]]
+
+- [[🏦 4 Connect & Reconcile Your Bank — Detailed Guide]]
+
+- [[📊 5 Run Financial Reports — Detailed Guide]]
+
+- [[🧾 6 Handle Tax Returns — Detailed Guide]]
+
+- [[🔐 7 Manage Users & Permissions — Detailed Guide]]
+

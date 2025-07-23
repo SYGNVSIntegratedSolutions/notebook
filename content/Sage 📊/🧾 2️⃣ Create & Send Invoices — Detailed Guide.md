@@ -13,30 +13,30 @@ Invoices tell your customers what they owe 💰 and when to pay 📅 — Sage ma
 
 ### 🏁 **A) Start a New Invoice**
 
-1️⃣ Log in to **Sage Accounting**.  
-2️⃣ Click **Sales** (sometimes called **Sales Invoices**).  
-3️⃣ Click **New Invoice** or **Create Invoice**.
+1 Log in to **Sage Accounting**.  
+2 Click **Sales** (sometimes called **Sales Invoices**).  
+3 Click **New Invoice** or **Create Invoice**.
 
 ---
 
 ### 👥 **B) Pick a Customer**
 
-1️⃣ In the **Customer** field, select an existing customer from your contacts list.
+1 In the **Customer** field, select an existing customer from your contacts list.
 
 - 📌 If they’re new, click **Add New Customer** and fill in the details (see Step 1!).  
-    2️⃣ Their billing info auto-fills — easy!
+    2 Their billing info auto-fills — easy!
     
 
 ---
 
 ### 📦 **C) Add Items or Services**
 
-1️⃣ Under **Item/Description**, type what you sold:
+1 Under **Item/Description**, type what you sold:
 
 - 📦 Products — e.g., “Office Chair”
     
 - 🛠️ Services — e.g., “Consulting Fee”  
-    2️⃣ Fill in:
+    2 Fill in:
     
 - 🔢 Quantity (how many)
     
@@ -49,9 +49,9 @@ Invoices tell your customers what they owe 💰 and when to pay 📅 — Sage ma
 
 ### 📅 **D) Set the Invoice Terms**
 
-1️⃣ Add **Invoice Date** — usually today.  
-2️⃣ Add **Due Date** — Sage often calculates this based on payment terms (e.g., Net 30 = due in 30 days).  
-3️⃣ Add **Reference** or **PO Number** if needed (some customers require this!).
+1 Add **Invoice Date** — usually today.  
+2 Add **Due Date** — Sage often calculates this based on payment terms (e.g., Net 30 = due in 30 days).  
+3 Add **Reference** or **PO Number** if needed (some customers require this!).
 
 ---
 
@@ -66,8 +66,8 @@ Invoices tell your customers what they owe 💰 and when to pay 📅 — Sage ma
 
 ### 💾 **F) Save & Send**
 
-1️⃣ Click **Save** or **Save & Email**.  
-2️⃣ If emailing:
+1 Click **Save** or **Save & Email**.  
+2 If emailing:
 
 - 📧 Review the email message.
     
@@ -80,7 +80,7 @@ Invoices tell your customers what they owe 💰 and when to pay 📅 — Sage ma
 
 ### 🗂️ **G) Check Invoice Status**
 
-1️⃣ Back in **Sales**, see your list of invoices:
+1 Back in **Sales**, see your list of invoices:
 
 - 🟢 **Open** → Awaiting payment.
     
@@ -93,8 +93,8 @@ Invoices tell your customers what they owe 💰 and when to pay 📅 — Sage ma
 
 ### 🔄 **H) Edit or Void If Needed**
 
-1️⃣ Click any invoice to **Edit**, **Copy**, or **Void** (cancel).  
-2️⃣ 📝 Need to credit a customer? Issue a **Credit Note** from the same screen.
+1 Click any invoice to **Edit**, **Copy**, or **Void** (cancel).  
+2 📝 Need to credit a customer? Issue a **Credit Note** from the same screen.
 
 ---
 

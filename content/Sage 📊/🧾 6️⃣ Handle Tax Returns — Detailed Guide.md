@@ -7,8 +7,8 @@ Sage helps you calculate and file your VAT/GST or sales taxes so you stay compli
 
 ### 🏁 **A) Go to the Taxes Section**
 
-1️⃣ Log in to **Sage Accounting**.  
-2️⃣ Click **Taxes** or **VAT** from the main menu.
+1 Log in to **Sage Accounting**.  
+2 Click **Taxes** or **VAT** from the main menu.
 
 ---
 
@@ -29,17 +29,17 @@ Sage helps you calculate and file your VAT/GST or sales taxes so you stay compli
 
 ### 🧾 **C) Prepare Your Tax Return**
 
-1️⃣ Click **Prepare Return** or **Create Tax Return**.  
-2️⃣ Sage fills in most fields automatically based on your recorded transactions.  
-3️⃣ Review carefully — make sure amounts look right.
+1 Click **Prepare Return** or **Create Tax Return**.  
+2 Sage fills in most fields automatically based on your recorded transactions.  
+3 Review carefully — make sure amounts look right.
 
 ---
 
 ### 📤 **D) Submit Your Tax Return**
 
 - If your country supports it, you can **submit directly** from Sage:  
-    1️⃣ Click **Submit Return**.  
-    2️⃣ Follow prompts to connect to your tax authority’s system.
+    1 Click **Submit Return**.  
+    2 Follow prompts to connect to your tax authority’s system.
     
 - If not, **export a PDF** or CSV to upload manually on the tax agency’s website.
     

@@ -13,12 +13,12 @@ Linking your bank lets Sage automatically import transactions, so you can:
 
 ### 🔌 **A) Connect Your Bank Account**
 
-1️⃣ Log in to **Sage Accounting**.  
-2️⃣ Go to the **Banking** or **Bank Accounts** section.  
-3️⃣ Click **Connect Bank Account** (or **Add Bank Account**).  
-4️⃣ Choose your bank from the list.  
-5️⃣ Log in securely with your online banking credentials.  
-6️⃣ Grant Sage permission to import transactions.  
+1 Log in to **Sage Accounting**.  
+2 Go to the **Banking** or **Bank Accounts** section.  
+3 Click **Connect Bank Account** (or **Add Bank Account**).  
+4 Choose your bank from the list.  
+5 Log in securely with your online banking credentials.  
+6 Grant Sage permission to import transactions.  
 ✅ Sage will start syncing transactions daily.
 
 ---
@@ -34,15 +34,15 @@ Linking your bank lets Sage automatically import transactions, so you can:
 
 ### 🔍 **C) Reconcile Transactions**
 
-1️⃣ Go to **Banking → Reconcile** or **Transactions**.  
-2️⃣ You’ll see a list of imported bank transactions.  
-3️⃣ Match each transaction to an existing invoice, bill, or expense:
+1 Go to **Banking → Reconcile** or **Transactions**.  
+2 You’ll see a list of imported bank transactions.  
+3 Match each transaction to an existing invoice, bill, or expense:
 
 - ✅ If Sage finds a match, approve it.
     
 - ❓ If no match, create a new entry or investigate.  
-    4️⃣ If there are fees or interest, enter them manually as needed.  
-    5️⃣ When all transactions are matched, your bank account is reconciled.
+    4 If there are fees or interest, enter them manually as needed.  
+    5 When all transactions are matched, your bank account is reconciled.
     
 
 ---

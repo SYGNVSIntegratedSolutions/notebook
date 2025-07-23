@@ -7,8 +7,8 @@ Reports show how your business is doing — profits, expenses, cash flow — hel
 
 ### 🏁 **A) Open the Reports Section**
 
-1️⃣ Log in to **Sage Accounting**.  
-2️⃣ Click **Reports** from the main menu.
+1 Log in to **Sage Accounting**.  
+2 Click **Reports** from the main menu.
 
 ---
 
@@ -31,14 +31,14 @@ Common reports:
 
 ### 🗓️ **C) Set Date Range**
 
-1️⃣ Select the period you want to review:
+1 Select the period you want to review:
 
 - This month
     
 - Last quarter
     
 - Custom dates (e.g., Jan 1 to Jun 30)  
-    2️⃣ Click **Apply** or **Run Report**.
+    2 Click **Apply** or **Run Report**.
     
 
 ---
@@ -56,12 +56,12 @@ Common reports:
 
 ### 💾 **E) Export or Print**
 
-1️⃣ To share or save the report:
+1 To share or save the report:
 
 - Click **Export** → choose **PDF** or **Excel**.
     
 - Or click **Print** to get a paper copy.  
-    2️⃣ Save reports regularly for your records or accountant.
+    2 Save reports regularly for your records or accountant.
     
 
 ---

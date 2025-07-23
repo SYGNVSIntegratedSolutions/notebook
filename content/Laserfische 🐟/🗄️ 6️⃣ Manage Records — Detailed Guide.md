@@ -17,9 +17,9 @@ Examples:
 
 ### 📁 **B) Create a Records Folder**
 
-1️⃣ In the repository, navigate to where you want your records to live.  
-2️⃣ Right-click → **New Folder** → Name it clearly, like `HR Records` or `Contracts 2025`.  
-3️⃣ Right-click the folder → **Convert to Record Series**.
+1 In the repository, navigate to where you want your records to live.  
+2 Right-click → **New Folder** → Name it clearly, like `HR Records` or `Contracts 2025`.  
+3 Right-click the folder → **Convert to Record Series**.
 
 - ✅ Now this folder is managed under Records Management.
     
@@ -28,9 +28,9 @@ Examples:
 
 ### 🏷️ **C) Declare a Document as a Record**
 
-1️⃣ Right-click the file → **Properties**.  
-2️⃣ Go to the **Records** tab.  
-3️⃣ Click **Declare as Record**.
+1 Right-click the file → **Properties**.  
+2 Go to the **Records** tab.  
+3 Click **Declare as Record**.
 
 - Now the file can’t be changed without tracking it — it’s protected.
     
@@ -39,14 +39,14 @@ Examples:
 
 ### 📆 **D) Set Retention Schedule**
 
-1️⃣ Right-click the declared record → **Properties** → **Records** tab.  
-2️⃣ Click **Assign Retention**.  
-3️⃣ Pick the correct retention policy:
+1 Right-click the declared record → **Properties** → **Records** tab.  
+2 Click **Assign Retention**.  
+3 Pick the correct retention policy:
 
 - 📅 How long to keep it (e.g., 7 years)
     
 - ⚖️ Final action (e.g., destroy or archive)  
-    4️⃣ Click **OK** — now Laserfiche tracks the clock for you.
+    4 Click **OK** — now Laserfiche tracks the clock for you.
     
 
 ---
@@ -54,9 +54,9 @@ Examples:
 ### 🔒 **E) Place Holds (If Needed)**
 
 If there’s an audit or legal issue, you might need to keep a record longer:  
-1️⃣ Right-click the record → **Properties** → **Records** tab.  
-2️⃣ Click **Place Hold**.  
-3️⃣ Add a note about why (e.g., `Pending Audit`).
+1 Right-click the record → **Properties** → **Records** tab.  
+2 Click **Place Hold**.  
+3 Add a note about why (e.g., `Pending Audit`).
 
 - The record can’t be destroyed while on hold.
     
@@ -66,9 +66,9 @@ If there’s an audit or legal issue, you might need to keep a record longer:
 ### 🗑️ **F) Cut Off & Destroy (When Time’s Up)**
 
 When the retention period is over:  
-1️⃣ Records will show up in the **Cutoff Eligible** or **Disposition Eligible** list.  
-2️⃣ Right-click → **Cut Off** to freeze edits.  
-3️⃣ Right-click → **Destroy** (if your role allows it) or send it for final approval.
+1 Records will show up in the **Cutoff Eligible** or **Disposition Eligible** list.  
+2 Right-click → **Cut Off** to freeze edits.  
+3 Right-click → **Destroy** (if your role allows it) or send it for final approval.
 
 ---
 

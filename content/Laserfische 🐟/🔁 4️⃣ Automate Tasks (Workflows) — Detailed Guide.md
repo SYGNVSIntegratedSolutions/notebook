@@ -6,21 +6,21 @@ Workflows help you 📬 _automatically_ route documents, send emails, get approv
 
 ### ⚙️ **A) Open Workflow Designer**
 
-1️⃣ Open **Laserfiche Workflow Designer** (your IT team may install this separately).  
-2️⃣ Log in with your Laserfiche account if asked.
+1 Open **Laserfiche Workflow Designer** (your IT team may install this separately).  
+2 Log in with your Laserfiche account if asked.
 
 ---
 
 ### ➕ **B) Create a New Workflow**
 
-1️⃣ Click **New Workflow**.  
-2️⃣ 📝 Give it a clear name — e.g., `Invoice Approval Process`.
+1 Click **New Workflow**.  
+2 📝 Give it a clear name — e.g., `Invoice Approval Process`.
 
 ---
 
 ### 🧩 **C) Add Activities**
 
-1️⃣ On the left panel, you’ll see activities like:
+1 On the left panel, you’ll see activities like:
 
 - 📄 **Retrieve Entry** (get the document)
     
@@ -29,15 +29,15 @@ Workflows help you 📬 _automatically_ route documents, send emails, get approv
 - 📧 **Send Email**
     
 - ✅ **Wait for Approval**  
-    2️⃣ Drag & drop activities onto the blank canvas in the order you want them to happen.
+    2 Drag & drop activities onto the blank canvas in the order you want them to happen.
     
 
 ---
 
 ### 🔗 **D) Connect the Steps**
 
-1️⃣ Click the **arrow** tool.  
-2️⃣ Connect activities by dragging arrows between them — this shows the flow.
+1 Click the **arrow** tool.  
+2 Connect activities by dragging arrows between them — this shows the flow.
 
 Example:  
 📥 Retrieve Entry → 📤 Route to Manager → ✅ Wait for Approval → 📂 Move to Approved Folder
@@ -46,7 +46,7 @@ Example:
 
 ### ⚙️ **E) Configure Each Activity**
 
-1️⃣ Click an activity to set its details.
+1 Click an activity to set its details.
 
 - For **Retrieve Entry**: Pick which folder it watches.
     
@@ -57,14 +57,14 @@ Example:
 - For **Wait for Approval**: Pick the approver and approval conditions.
     
 
-2️⃣ Use tokens to pull in dynamic info (like file name, metadata).
+2 Use tokens to pull in dynamic info (like file name, metadata).
 
 ---
 
 ### 🗂️ **F) Add Conditions (Optional)**
 
 Want different paths for different situations? 🛤️  
-1️⃣ Add **Conditional Decisions** (IF/THEN logic).
+1 Add **Conditional Decisions** (IF/THEN logic).
 
 - Example: _If Invoice Amount > $5,000 → route to Director_
     
@@ -75,8 +75,8 @@ Want different paths for different situations? 🛤️
 
 ### 💾 **G) Save & Publish**
 
-1️⃣ Click **Save** to save your progress.  
-2️⃣ Click **Publish** when you’re ready for Laserfiche to run it.
+1 Click **Save** to save your progress.  
+2 Click **Publish** when you’re ready for Laserfiche to run it.
 
 - You can schedule it or run it when someone drops a file in a folder.
     
@@ -85,10 +85,10 @@ Want different paths for different situations? 🛤️
 
 ### 🧪 **H) Test Your Workflow**
 
-1️⃣ Put a test document in the starting folder.  
-2️⃣ Watch the workflow run step by step.  
-3️⃣ ✅ Check if files move, emails send, approvals trigger as expected.  
-4️⃣ Fix anything that doesn’t work — then publish again!
+1 Put a test document in the starting folder.  
+2 Watch the workflow run step by step.  
+3 ✅ Check if files move, emails send, approvals trigger as expected.  
+4 Fix anything that doesn’t work — then publish again!
 
 ---
 

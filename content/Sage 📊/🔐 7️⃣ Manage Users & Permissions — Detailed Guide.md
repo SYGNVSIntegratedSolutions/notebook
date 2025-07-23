@@ -7,17 +7,17 @@ Giving the right access keeps your data safe and lets your team work efficiently
 
 ### 🏁 **A) Open User Management**
 
-1️⃣ Log in to **Sage Accounting** as an admin.  
-2️⃣ Go to **Settings** (⚙️ icon).  
-3️⃣ Click **User Management** or **Manage Users**.
+1 Log in to **Sage Accounting** as an admin.  
+2 Go to **Settings** (⚙️ icon).  
+3 Click **User Management** or **Manage Users**.
 
 ---
 
 ### ➕ **B) Add a New User**
 
-1️⃣ Click **Add User** or **Invite User**.  
-2️⃣ Enter their email address.  
-3️⃣ Choose their role/permission level:
+1 Click **Add User** or **Invite User**.  
+2 Enter their email address.  
+3 Choose their role/permission level:
 
 - 🛠️ **Admin** — full access
     
@@ -26,16 +26,16 @@ Giving the right access keeps your data safe and lets your team work efficiently
 - 🧾 **Sales** — invoicing only
     
 - 👀 **Read-only** — view reports but no changes  
-    4️⃣ Click **Send Invite** — user will get an email to set up their login.
+    4 Click **Send Invite** — user will get an email to set up their login.
     
 
 ---
 
 ### 🔄 **C) Edit or Remove Users**
 
-1️⃣ In **User Management**, find the user you want to update.  
-2️⃣ Click **Edit** to change their role or details.  
-3️⃣ Click **Remove** or **Deactivate** if they should no longer access Sage.
+1 In **User Management**, find the user you want to update.  
+2 Click **Edit** to change their role or details.  
+3 Click **Remove** or **Deactivate** if they should no longer access Sage.
 
 ---
 
