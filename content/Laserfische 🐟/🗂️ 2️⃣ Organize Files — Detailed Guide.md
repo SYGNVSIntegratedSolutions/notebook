@@ -1,0 +1,84 @@
+### ➡️ **Why Organize?**
+
+Keeping your files neat makes them easy to find 🔍 and ensures everyone can work faster ✅.
+
+---
+
+### 📁 **A) Create Folders**
+
+1️⃣ **Go to the Main Repository:**
+
+- In Laserfiche, the left panel shows the folder structure like Windows Explorer.
+    
+
+2️⃣ **Add a New Folder:**
+
+- Right-click the parent folder where you want the new folder.
+    
+- Select **New Folder**.
+    
+- 📝 Give it a clear name — e.g., `Invoices 2025`, `HR Records`.
+    
+
+3️⃣ **Keep It Simple:**
+
+- Use clear, consistent names so everyone knows what goes where.
+    
+
+---
+
+### ✏️ **B) Rename Files**
+
+1️⃣ Find the file or folder you want to rename.  
+2️⃣ Right-click it → Click **Rename**.  
+3️⃣ 🖊️ Type the new name. Example: `Invoice_1234_July2025`.  
+4️⃣ Press **Enter** to save the name.
+
+---
+
+### 🏷️ **C) Add Tags**
+
+Tags make files easy to find later 🔍.
+
+1️⃣ Right-click a file → Click **Tags**.  
+2️⃣ Click **Add** and type your tag (e.g., `Urgent`, `Approved`).  
+3️⃣ Click **OK** — the tag is attached.
+
+---
+
+### 📑 **D) Apply Templates**
+
+Templates add extra info (metadata) so you can search smarter 🗝️.
+
+1️⃣ Right-click the file → Click **Properties**.  
+2️⃣ Go to the **Template** tab.  
+3️⃣ Select the right template from the list (e.g., Invoice, Contract).  
+4️⃣ Fill in fields like date, vendor, project, etc.  
+5️⃣ Click **OK**.
+
+---
+
+### 🔐 **E) Set Permissions**
+
+Keep files secure — only the right people should see them 🔒.
+
+1️⃣ Right-click the folder or file.  
+2️⃣ Click **Access Rights**.  
+3️⃣ Add a user or group 👥.  
+4️⃣ ✅ Choose permissions:
+
+- **Read** (view)
+    
+- **Write** (edit)
+    
+- **Delete** (remove)  
+    5️⃣ Click **OK**.
+    
+
+---
+
+### 💡 **Tips for Staying Organized**
+
+📁 Use folders for big categories — use templates/tags for details.  
+🗂️ Don’t dump all files in one place — group by year, department, or project.  
+✅ Use consistent names — everyone should follow the same pattern.

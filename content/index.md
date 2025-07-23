@@ -44,6 +44,41 @@ Not finding a guide for what you need? Email paul@sygnvs.com and he will happily
 
 - [[COPE Framework Laptop Security]]
 
+## **Laserfische:**
 
+- [[Introduction to Laserfische 🐟]]
+
+- [[📁 1️⃣ Import or Scan Files — Detailed Guide]]
+
+- [[🗂️ 2️⃣ Organize Files — Detailed Guide]]
+
+- [[🔍 3️⃣ Search for Documents — Detailed Guide]]
+
+- [[🔁 4️⃣ Automate Tasks (Workflows) — Detailed Guide]]
+
+- [[📝 5️⃣ Build Electronic Forms — Detailed Guide]]
+
+- [[🗄️ 6️⃣ Manage Records — Detailed Guide]]
+
+- [[🤝 7️⃣ Collaborate & Share — Detailed Guide]]
+
+
+## **Sage:**
+
+- [[📊 Sage Accounting — Overview Guide]]
+
+- [[📇 1️⃣ Add Customers & Vendors — Detailed Guide]]
+
+- [[🧾 2️⃣ Create & Send Invoices — Detailed Guide]]
+
+- [[💸 3️⃣ Record Bills & Expenses — Detailed Guide]]
+
+- [[🏦 4️⃣ Connect & Reconcile Your Bank — Detailed Guide]]
+
+- [[📊 5️⃣ Run Financial Reports — Detailed Guide]]
+
+- [[🧾 6️⃣ Handle Tax Returns — Detailed Guide]]
+
+- [[🔐 7️⃣ Manage Users & Permissions — Detailed Guide]]
 
 
