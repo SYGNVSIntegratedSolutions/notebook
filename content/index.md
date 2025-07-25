@@ -81,4 +81,26 @@ Not finding a guide for what you need? Email paul@sygnvs.com and he will happily
 
 - [[🔐 7 Manage Users & Permissions — Detailed Guide]]
 
+## **Scripts and Automation:**
 
+- [[Advanced Dev Environment Setup 🚀]]
+
+- [[Basic Developer Environment Setup 🔧]]
+
+- [[Basic Hybrid Cryptography 🗃️]]
+
+- [[Fresh Workstation Essentials 📍]]
+
+- [[GPO Windows Desktop Hardening 💻]]
+
+- [[GUI App for Cryptography 📒]]
+
+- [[Lightweight Windows Desktop Hardening Script 🔒]]
+
+- [[Pro Version of Hybrid Cryptography 📝]]
+
+- [[Server Hardening Script 🛡️]]
+
+- [[Starter Domain Controller Security Baseline GPO 🖥️]]
+
+- [[VirtualBox Linux Demo Installer ⚡]]
