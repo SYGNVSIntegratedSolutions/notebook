@@ -11,14 +11,15 @@ Not finding a guide for what you need? Email paul@sygnvs.com and he will happily
 
 ### Looking for a place to get started? Take a look at our Top 10 for [[Windows Desktop Hardening]] 🔧
 
-## 📍 *Articles and Other Comfy Reading:*
+## 📍 **Articles and Other Comfy Reading:**
 
 - [[The Looming Threat of Scattered Spider]]
 
 - [[The Equifax Data Breach]]
 
 - [[OWASP and Its Contributions to the Security Field]]
-## *Quick-Start Guides:*
+
+## 📍**Quick-Start Guides:**
 
 - [[Windows Desktop Hardening]]
 
@@ -43,45 +44,44 @@ Not finding a guide for what you need? Email paul@sygnvs.com and he will happily
 - [[COPE Framework Mobile Security]]
 
 - [[COPE Framework Laptop Security]]
+## 📍**Laserfische:**
 
-## **Laserfische:**
 
 - [[Introduction to Laserfische 🐟]]
 
-- [[📁 1 Import or Scan Files — Detailed Guide]]
+- [[Build Electronic Forms]]
 
-- [[🗂️ 2 Organize Files — Detailed Guide]]
+- [[Collaborate & Share]]
 
-- [[🔍 3 Search for Documents — Detailed Guide]]
+- [[Import or Scan Files]]
 
-- [[🔁 4 Automate Tasks (Workflows) — Detailed Guide]]
+- [[Manage Records]]
 
-- [[📝 5 Build Electronic Forms — Detailed Guide]]
+- [[Organize Files]]
 
-- [[🗄️ 6 Manage Records — Detailed Guide]]
+- [[Search for Documents]]
 
-- [[🤝 7 Collaborate & Share — Detailed Guide]]
+- [[Task Automation and Workflows]]
 
+## 📍**Sage:**
 
-## **Sage:**
+- [[📊 Sage Accounting ]]
 
-- [[📊 Sage Accounting — Overview Guide]]
+- [[Add Customers & Vendors]]
 
-- [[📇 1 Add Customers & Vendors — Detailed Guide]]
+- [[Create & Send Invoices]]
 
-- [[🧾 2 Create & Send Invoices — Detailed Guide]]
+- [[Record Bills & Expenses]]
 
-- [[💸 3 Record Bills & Expenses — Detailed Guide]]
+- [[Sage 📊/Connect & Reconcile Your Bank|Connect & Reconcile Your Bank]]
 
-- [[🏦 4 Connect & Reconcile Your Bank — Detailed Guide]]
+- [[Run Financial Reports]]
 
-- [[📊 5 Run Financial Reports — Detailed Guide]]
+- [[Handle Tax Returns]]
 
-- [[🧾 6 Handle Tax Returns — Detailed Guide]]
+- [[Manage Users & Permissions]]
 
-- [[🔐 7 Manage Users & Permissions — Detailed Guide]]
-
-## **Scripts and Automation:**
+## 📍**Scripts and Automation:**
 
 - [[Advanced Dev Environment Setup 🚀]]
 
@@ -104,3 +104,13 @@ Not finding a guide for what you need? Email paul@sygnvs.com and he will happily
 - [[Starter Domain Controller Security Baseline GPO 🖥️]]
 
 - [[VirtualBox Linux Demo Installer ⚡]]
+
+## 📍**Linux:**
+
+- [[ARCH 💫]]
+
+- [[Mint 🌿]]
+
+- [[ParrotOS 🐦]]
+
+- [[Ubuntu 🐧]]
