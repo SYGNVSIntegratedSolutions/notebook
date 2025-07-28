@@ -13,11 +13,15 @@ Not finding a guide for what you need? Email paul@sygnvs.com and he will happily
 
 ## 📍 **Articles and Other Comfy Reading:**
 
-- [[The Looming Threat of Scattered Spider]]
+- [[The Looming Threat of Scattered Spider 🕷️]]
 
-- [[The Equifax Data Breach]]
+- [[The Equifax Data Breach 🏛️]]
 
-- [[OWASP and Its Contributions to the Security Field]]
+- [[OWASP and Its Contributions to the Security Field 🎓]]
+
+- [[Installing a VPN on Your Router 🕵️‍♂️]]
+
+- [[The Future of Authentication 🔑]]
 
 ## 📍**Quick-Start Guides:**
 
