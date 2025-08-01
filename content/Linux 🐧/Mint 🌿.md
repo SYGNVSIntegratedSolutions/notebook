@@ -1,5 +1,11 @@
 # **Why Consider Switching from Windows to Linux Mint?**
 
+Anyone who is engaged with computerized business is aware of the totalizing dominance that Windows has on our workday. It is responsible for everything we do online, from package management and installation to workflow optimization - it really seems like we're all on Outlook communicating with clients, on Teams to collaborate with our coworkers and management, or on Edge interacting with our web applications.
+
+However, there are alternatives out there which should not be overlooked, especially in scenarios where every single dollar counts. Linux is a bundle of free operating systems that are built on similar architecture. Because so many distributions (versions) of Linux exist, it can be difficult for us to determine whether any particular distro is right for us. 
+
+This series of articles is meant to briefly explain what makes each distribution of Linux unique, and whether they are worth setting up for users who are already comfortable with Windows environments.
+
 If you’re looking for an easy, stress-free alternative to Windows, Linux Mint might be the perfect fit. It’s designed to feel familiar, work reliably, and save you time and money — without any surprises.
 
 ![[they-just-released-the-wallpapers-for-mint-22-theyre-pretty-v0-czmg0ycfz88d1.png]]
