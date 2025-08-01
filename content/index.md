@@ -5,11 +5,9 @@ title: 📯 Welcome! 📯
 
 This is SYGNVS's cozy sanctuary for all of our clients to peek into the IT realm that we thrive in!
 
-##### 🛠️ Here, you will find Top 10's for anything you could think of, articles written by our security staff, and much more! 
+#### 🛠️ Here, you will find Top 10's for anything you could think of, articles written by our security staff, and much more! 
 
 Not finding a guide for what you need? Email paul@sygnvs.com and he will happily get an entry made for you!
-
-### Looking for a place to get started? Take a look at our Top 10 for [[Windows Desktop Hardening]] 🔧
 
 ## 📍 **Articles and Other Comfy Reading:**
 
