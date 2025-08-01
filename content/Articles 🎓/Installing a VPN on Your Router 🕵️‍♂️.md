@@ -33,7 +33,7 @@ Most routers that can be bought off the shelf are not going to have built-in sup
 
 The most reliable option for users is the classic [DD-WRT](https://dd-wrt.com/ "(Opens in a new tab)") firmware, which is an open-source firmware based on IOT Linux that is suitable for a large variety of WLAN routers and embedded systems. Broadcom users, however, may seek more modern options - [Tomato](https://advancedtomato.com/ "(Opens in a new tab)") tops the list with consistency in terms of usability, popularity, and compatibility. Because DD-WRT is considered legacy software, it is usually compatible with older devices; you can dust off your dad's old router, and it will most likely be compatible with this firmware. 
 
-Additionally, more and more routers are added to the list of compatible devices each year. If you want to check whether your device is applicablel, you can check [here](https://dd-wrt.com/support/router-database/ "(Opens in a new tab)"). 
+Additionally, more and more routers are added to the list of compatible devices each year. If you want to check whether your device is applicable, you can check [here](https://dd-wrt.com/support/router-database/ "(Opens in a new tab)"). 
 
 Please be advised that there is a chance that, by installing DD-WRT on your router, you may void your device's warranty or render the router inoperable if an error is encountered during installation. The best practice for avoiding this issue is to ensure that your device has been on the supported routers list (linked above) for a substantial length of time (a year, at least).
 
